@@ -3,16 +3,18 @@ Aspiring Data Scientist with interest in Data Science, Statistical Analysis &amp
 
 # Work Experience
 
-**Ford Motor Company**<br>
-Role: **Assembler (Learner)**<br>
+**Ford Motor Company** <br>
+Role: ***Inventory Checker*** 2021 - current<br>
+Inbounds/Outbounds/Picker/Packer<br>
+Placing orders, purifying stock, inspection<br>
+
+Role: **Assembler (Learner)** 2019-2020<br>
 Assemble units, Fault finding and taking corrective<br>
 measures, Repairs on units, Maintain Safe<br>
-working conditions and Good housing keeping, Report<br>
-Incidents and Accidents, Maintaining 5S<br>
-Worked at Ford CSO Warehouse:<br>
-Inbound/Outbound/Picker/Packer<br>
+working conditions and Good housing keeping, 
+Report Incidents and Accidents, Maintaining 5S<br>
 
-**Sasol Synfuels**<br>
+**Sasol Synfuels** 2011-2015<br> 
 Role: **Process Controller**<br>
 Plant Start-ups (Commissioning) and shutting down<br>
 (Decommissioning) for Major Maintenance,<br>
@@ -97,5 +99,5 @@ In this project we will investigage the US Medical Insurance Cost data insirance
 Section A: Python libraries numpy and pandas Section B: Python Matplotlib and seaborn (visualization) Section C: By use of csv library without the ones used in 1<br>
 Link: https://github.com/spchaane/U.S.-Medical-Insurance-Costs<br>
 
-All Data Science Projects<br>
+Other Projects<br>
 Link: https://github.com/spchaane<br>
