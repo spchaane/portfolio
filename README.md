@@ -99,5 +99,9 @@ In this project we will investigage the US Medical Insurance Cost data insirance
 Section A: Python libraries numpy and pandas Section B: Python Matplotlib and seaborn (visualization) Section C: By use of csv library without the ones used in 1<br>
 Link: https://github.com/spchaane/U.S.-Medical-Insurance-Costs<br>
 
+**Hierarchical Clustering of Iris dataset**<br>
+Model uses agglomerative hierarchical clustering to cluster the Iris data set according to species.<br>
+Link: https://github.com/spchaane/Unsupervised-Machine-Learning<br><br>
+
 Other Projects<br>
 Link: https://github.com/spchaane<br>
